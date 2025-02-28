@@ -25,16 +25,6 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - Create-Extra (Default)
-      default: 0
-    validations:
-      required: true
-  - type: dropdown
     id: os
     attributes:
       label: In which os are you seeing the problem?
