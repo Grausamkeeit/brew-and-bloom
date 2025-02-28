@@ -1,6 +1,12 @@
 ## Checklist for all submissions
+<!--
+Thanks for submitting a pull request!
 
-<!-- insert X into the brackets to mark it as done (i.e. [x]). You can click preview to make the links appear clickable. -->
+- Translation PRs are not accepted, use Crowdin instead: https://download.fo/translate
+- Mod and config changes are not accepted, use issues to propose them: https://github.com/Fabulously-Optimized/fabulously-optimized/issues
+- Major changes should be discussed as an issue or on Discord first.
+
+-->
 
 * [ ] Have you checked to ensure there aren't other open [Pull Requests](../pulls) for the same update/change?
 * [ ] Did you made your changes in the code of the latest version
