@@ -17,6 +17,6 @@ body:
       label: What feature you want to add?
       description: Describe in detail what you would like to change/add to the modpack.
       placeholder: Tell us what you want!
-      value: "A bug happened!"
+      value: "I have a great idea!"
     validations:
       required: true
